@@ -11,7 +11,7 @@
 - **Database**: PostgreSQL
 - **Tools**: Git, GitHub, REST APIs, VS Code, AWS
 
-- ## 🚀 Projects
+## 🚀 Projects
 ### [🌐 Interactive World Map]
 Angular + World Bank API + SVG → Real-time country data with click events
 

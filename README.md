@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, Im Juan Olmedo👋
 
-<!--
-**1olmedo23/1olmedo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student @ Western Governors University  
+💻 Aspiring Full-Stack Developer | Angular | JavaScript | PostgreSQL  
+🌎 Based in Seattle | Fluent in English and Spanish
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages**: Java, JavaScript, TypeScript, Python, SQL
+- **Frontend**: Angular, HTML, CSS, Bootstrap
+- **Backend**: Node.js, Express
+- **Database**: PostgreSQL
+- **Tools**: Git, GitHub, REST APIs, VS Code, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 🚀 Projects
+### [🌐 Interactive World Map]
+Angular + World Bank API + SVG → Real-time country data with click events
+
+### [💼 Job Tracker](Coming Soon)
+Helps me organize internship applications and status updates
+
+### [💸 Expense Tracker](Coming Soon)
+Track personal spending, built in JavaScript/PostgreSQL
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/juan-olmedo-16614a2b3)

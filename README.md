@@ -1,4 +1,4 @@
-## Hi, Im Juan C. Olmedo Morales 👋
+## Hi, Im Juan C. Olmedo 👋
 
 🎓 Software Engineering Student @ Western Governors University  
 💻 Aspiring Full-Stack Developer | Angular | JavaScript | PostgreSQL  
